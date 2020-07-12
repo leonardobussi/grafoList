@@ -1,2 +1,2 @@
-# grafo_lista
-grafo em lista feito em python
+# grafoList
+grafo in List 
