@@ -1,2 +1,2 @@
-# grafoList
-grafo in List 
+#graphList
+graph in List 
